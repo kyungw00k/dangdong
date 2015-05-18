@@ -6,6 +6,7 @@
 ```
 $ npm install
 $ export MONGO_URL='mongodb://user:password@host:port/databasename?autoReconnect=true&connectTimeout=60000'
+$ export ROOT_URL='http://localhost:8080'
 $ export PORT=8080
 $ node main.js
 ```
