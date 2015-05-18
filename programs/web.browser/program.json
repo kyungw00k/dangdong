@@ -1,0 +1,74 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "d523eb090dd9da0b97abbf467ee6181f041ef27a.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/d523eb090dd9da0b97abbf467ee6181f041ef27a.js",
+      "size": 698044,
+      "hash": "d523eb090dd9da0b97abbf467ee6181f041ef27a"
+    },
+    {
+      "path": "3a83214d22f7bf2e53e0722ba97c4d6ec46cc7c3.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/3a83214d22f7bf2e53e0722ba97c4d6ec46cc7c3.css?meteor_css_resource=true",
+      "size": 117747,
+      "hash": "3a83214d22f7bf2e53e0722ba97c4d6ec46cc7c3"
+    },
+    {
+      "path": "packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot",
+      "size": 20335,
+      "hash": "f3a9a3b609133c3d21d6b42abbf7f43bd111df72"
+    },
+    {
+      "path": "packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf",
+      "size": 41280,
+      "hash": "aafafdc09404c4aa4447d7e898a2183def9cc1b1"
+    },
+    {
+      "path": "packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg",
+      "size": 62926,
+      "hash": "66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa"
+    },
+    {
+      "path": "packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff",
+      "size": 23320,
+      "hash": "22037a3455914e5662fa51a596677bdb329e2c5c"
+    },
+    {
+      "path": "packages/bengott_avatar/default.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bengott_avatar/default.png",
+      "size": 1577,
+      "hash": "76ec76887e4c748e6358a2aaf9b57006567f8999"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "5df220800f5a1130747373bbe1462227302f4abb"
+    }
+  ]
+}

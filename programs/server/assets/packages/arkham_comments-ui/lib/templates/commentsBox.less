@@ -1,0 +1,61 @@
+.comments-box {
+    max-width: 40em;
+    padding: 1em;
+    
+    @navy: #001F3F;
+
+    .comments {
+        padding-top: 1em;
+        transition: 1s background-color;
+    }
+
+    .unstyled-link {
+        text-decoration: none;
+    }
+
+    .avatar-initials {
+        background-color: #FFFFFF;
+    }
+
+    .avatar-image {
+        height: initial;
+    }
+
+    textarea.create-comment {
+        max-height: 9em !important;
+    }
+
+    .loadmore-action.button {
+        margin-top: 2em;
+    }
+
+    div[contenteditable=true] {
+        background-color: @navy;
+        border-radius: 0.4em;
+        color: white;
+        opacity: 0.8;
+    }
+    
+    .padded {
+        padding: 0.5em;
+    }
+    
+    .content-image {
+        max-width: 100%;
+        max-height: 300px;
+        margin: 0.5em 0;
+        overflow: hidden;
+
+        img { max-width: 100%; }
+    }
+    
+    // semantic ui
+    .ui.comments > .comment .comments {
+        margin-left: -3em;
+    }
+
+    // bootstrap 3
+    .actions .label {
+        margin: 0 0.5em;
+    }
+}
